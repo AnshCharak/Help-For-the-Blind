@@ -1,1 +1,1 @@
-# Help-For-the-Blind
+# Deep learning voice narration and captioning for visually imapred people
